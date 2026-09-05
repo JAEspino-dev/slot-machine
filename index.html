@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="This is where your description goes">
+	<meta name="keywords" content="one, two, three">
+
+	<title>Slot Machine</title>
+
+	<!-- external CSS link -->
+	<link rel="stylesheet" href="css/normalize.css">
+	<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+	<h1>Slot Machine</h1>
+	<div id="container1">
+		<p id="reel1" class="reels">🍎</p>
+		<p id="reel2" class="reels">🍊</p>
+		<p id="reel3" class="reels">🍌</p>
+	</div>
+	<section id="container2">
+		<div id="balanceBoxToDecorate">
+			<p>Balance:</p>
+			<p id="balance" class="container2box"> $1000</p>
+		</div>
+		<div id="containerInContainer2">
+			<label for="bet">Enter your bet ($5–$50):</label>
+			<input id="bet" type="number" min="5" max="50" placeholder="Enter bet">
+			<button id="submitBetStartSpin">Spin</button>
+		</div>
+	</section>
+	<h2 id="message"></h2>
+	<script type="text/javascript" src="js/main.js"></script>
+</body>
+
+</html>
