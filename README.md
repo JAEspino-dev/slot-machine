@@ -15,7 +15,7 @@ Fully responsive design for desktop and mobile.
 # 🔨 Built With
 HTML5 – structure,    
 CSS3 – responsive design and background,    
-JavaScript - fetch image of the day from NASA API.  
+JavaScript - frontend actions.    
 
 # 🧠 What I Learned
 How to work with Node.    
