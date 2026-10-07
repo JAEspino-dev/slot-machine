@@ -23,5 +23,4 @@ How to work with APIs.
 How to use fetch().   
 How to work with JSON data.  
 How to manipulate the DOM.  
-How to handle errors.  My Slot Machine was created using HTML, CSS and Javascript.
-Download, give it a try, and let me know what you think! 
+How to handle errors.  
